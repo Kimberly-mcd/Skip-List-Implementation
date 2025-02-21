@@ -1,0 +1,1 @@
+This repository contains the implementation of a SkipListSet<T> collection in Java, which implements the SortedSet<T> interface. This project demonstrates the usage of skip lists as a high-performance data structure and offers a general collection that can store any Comparable objects in sorted order.
